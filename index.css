@@ -1,0 +1,29 @@
+h1,h4,h2,h3{
+           color: red;
+}
+
+h2{
+    color: yellow
+}
+
+h3{
+    color :blue
+}
+
+body{
+    background-color: green;
+}
+
+p {
+    color:aquamarine
+}
+
+button{
+    color: rgb(6, 14, 51);
+}
+
+.banner{
+    background-color:red;
+    padding: 20px;
+text-align:center
+}
